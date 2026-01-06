@@ -6,15 +6,21 @@ I’m a Master’s student in Applied Computer Science with hands-on experience 
 ## What I Do:
 
 🔹 Machine Learning & NLP – Building recommendation systems, text analysis, and predictive models
+
 🔹 Data Analysis & Visualization – Processing, cleaning, and visualizing structured and unstructured data
+
 🔹 Backend & API Development – Developing RESTful APIs to serve data and model outputs
+
 🔹 Automation & Workflow Optimization – Transforming manual processes into efficient, automated pipelines
+
 🔹 Cross-functional Collaboration – Working with teams to translate business requirements into technical solutions
 
 ## Tech Stack:
 
-Languages: Python, SQL, JavaScript, PHP (basic)
+Languages: Python, SQL, JavaScript, PHP
+
 Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Flask, Django
+
 Databases & Tools: MySQL, PostgreSQL, Oracle, Power BI, Tableau, Git, GitHub
 ## Get in Touch:
 https://www.linkedin.com/in/numan-tasaddaq-2635831ab/
