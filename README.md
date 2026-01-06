@@ -1,22 +1,20 @@
 ## Hi there, I'm Numan Tasaddaq! 👋
-PHP Developer | Web Application Enthusiast
+AI & Data Science Enthusiast | Python Developer | NLP & Machine Learning
 
-I'm a dedicated PHP Developer with experience in building dynamic and efficient web applications using Core PHP. I specialize in writing clean, secure, and maintainable PHP code to develop custom solutions tailored to business needs.
+I’m a Master’s student in Applied Computer Science with hands-on experience in Python, NLP, machine learning, and building data-driven applications. I enjoy transforming raw data into actionable insights and developing scalable solutions that integrate with real-world workflows.
 
 ## What I Do:
-🔹 Custom PHP Development – Writing optimized and structured PHP code
-🔹 Database Management – Designing and managing MySQL databases
-🔹 Form Handling & Validation – Ensuring secure user input handling
-🔹 Session & Cookie Management – Implementing user authentication and tracking
-🔹 Bug Fixing & Optimization – Debugging and improving application performance
 
-## Tech Stack:
-Languages: PHP, JavaScript, HTML, CSS
+🔹 Machine Learning & NLP – Building recommendation systems, text analysis, and predictive models
+🔹 Data Analysis & Visualization – Processing, cleaning, and visualizing structured and unstructured data
+🔹 Backend & API Development – Developing RESTful APIs to serve data and model outputs
+🔹 Automation & Workflow Optimization – Transforming manual processes into efficient, automated pipelines
+🔹 Cross-functional Collaboration – Working with teams to translate business requirements into technical solutions
 
-Database: MySQL
+##Tech Stack:
 
-Version Control: Git, GitHub
-
-Server Management: XAMPP, Apache
+Languages: Python, SQL, JavaScript, PHP (basic)
+Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Flask, Django
+Databases & Tools: MySQL, PostgreSQL, Oracle, Power BI, Tableau, Git, GitHub
 ## Get in Touch:
 https://www.linkedin.com/in/numan-tasaddaq-2635831ab/
