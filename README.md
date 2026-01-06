@@ -11,7 +11,7 @@ I’m a Master’s student in Applied Computer Science with hands-on experience 
 🔹 Automation & Workflow Optimization – Transforming manual processes into efficient, automated pipelines
 🔹 Cross-functional Collaboration – Working with teams to translate business requirements into technical solutions
 
-##Tech Stack:
+## Tech Stack:
 
 Languages: Python, SQL, JavaScript, PHP (basic)
 Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Flask, Django
